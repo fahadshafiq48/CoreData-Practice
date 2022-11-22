@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Fahad Test/Utilities/ReminderItem+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Fahad Test/Utilities/ReminderItem+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Fahad Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

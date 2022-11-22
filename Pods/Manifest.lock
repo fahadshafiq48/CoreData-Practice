@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.6.2)
+  - IQKeyboardManagerSwift (6.5.10)
+  - MBProgressHUD (1.2.0)
+  - SDWebImage (5.13.4):
+    - SDWebImage/Core (= 5.13.4)
+  - SDWebImage/Core (5.13.4)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (~> 1.2.0)
+  - SDWebImage (~> 5.0)
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - SDWebImage
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDWebImage: e5cc87bf736e60f49592f307bdf9e157189298a3
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: 9b795c943c2ea421e860333d7e9e872e22489d22
+
+COCOAPODS: 1.11.3
